@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic-settings
+httpx
+beautifulsoup4
+sqlalchemy
+alembic
+aiogram
