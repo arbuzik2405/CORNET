@@ -1,6 +1,6 @@
 # CORNET
 
-Universal web monitoring and change detection platform.
+Универсальная утилита для веб-мониторинга и анализа изменения платформ. (Universal web monitoring and change detection platform).
 
 ## Overview
 
@@ -26,8 +26,9 @@ stores snapshots and events, and sends notifications through Telegram.
 
 ## Project status
 
-Early development — MVP.
+На этапе ранней разработки — MVP.
 
 ## Security
 
 Never commit credentials, API tokens, private keys or `.env` files.
+ 
